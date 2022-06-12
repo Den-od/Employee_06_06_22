@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f59dadc-faf8-472f-b987-987f2fae14a6" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Employee_06_06_22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/EmployeeSalaryPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/EmpoyeeNamePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/POSITION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Printer.java" afterDir="false" />
-    </list>
+    <list default="true" id="3f59dadc-faf8-472f-b987-987f2fae14a6" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/denis.kopylov/Desktop/Java/Git/Employee_06_06_22/Employee_06_06_22/src/com/company",
+    "last_opened_file_path": "C:/Users/denis.kopylov/Desktop/Java/Примеры/IDE/BeerSong/BeerSong/src/com/max/idea/Main.java",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
@@ -81,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654857525873</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1655063761349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655063761349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
