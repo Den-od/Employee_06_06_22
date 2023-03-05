@@ -50,3 +50,4 @@ public class Main {
 Next commit
 Branch1 commit
 Master commit2
+        Master commit3
