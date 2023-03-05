@@ -49,3 +49,4 @@ public class Main {
 1234567890
 Next commit
 Branch1 commit
+Master commit2
