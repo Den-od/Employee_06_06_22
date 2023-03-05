@@ -51,3 +51,4 @@ Next commit
 Branch1 commit
 Master commit2
         Master commit3
+        Master commit4
